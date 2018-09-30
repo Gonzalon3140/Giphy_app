@@ -1,0 +1,57 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.moviebutton {
+    margin-top: 60px;
+    padding: 30px;
+
+}
+
+body {
+    background-image: url(../images/swirl_pattern.png);
+    padding: 0px;
+}
+
+.container {
+    margin-left: 85px;
+}
+
+.form-group {
+    margin-top: 50px;
+    width: 20%;
+}
+
+#gifWrapper {
+    width: 100%;
+}
+
+#buttonWrapper {
+    margin-top: 20px;
+}
+
+.giphy {
+    position: relative;
+    height: 80%;
+    width: 40%;
+}
+
+.rating {
+    font-size: 15px;
+    margin-bottom: 10px;
+}
+
+.title {
+    margin-bottom: 5px;
+    font-size: 15px;
+    white-space: pre;
+
+}
+
+.giphyImage {
+    width: auto;
+    border: 1px solid black;
+
+}
